@@ -1,6 +1,6 @@
 = Biscuit
 
-Eat your Chrome cookies.
+Eat your Chrome cookies (on OSX).
 
 == Copyright
 

@@ -10,6 +10,7 @@ begin
     gem.email = "mark@new-bamboo.co.uk"
     gem.homepage = "http://github.com/markevans/biscuit"
     gem.authors = ["Mark Evans"]
+    gem.add_dependency "activerecord", "~>3.0.0"
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_development_dependency "yard", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
